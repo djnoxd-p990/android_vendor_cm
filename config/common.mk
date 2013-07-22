@@ -148,7 +148,6 @@ PRODUCT_PACKAGES += \
 # Optional CM packages
 PRODUCT_PACKAGES += \
     Babel \
-    VideoEditor \
     VoiceDialer \
     SoundRecorder \
     Basic
